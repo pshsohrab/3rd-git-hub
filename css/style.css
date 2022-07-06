@@ -1,0 +1,14 @@
+#Chittagong {
+    display: flex;
+}
+
+.images img {
+    width: 500px;
+    height: auto;
+    border-radius: 50%;
+    margin: 60px auto;
+}
+
+p {
+    text-align: justify;
+}
