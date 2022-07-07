@@ -5,10 +5,27 @@
 .images img {
     width: 500px;
     height: auto;
-    border-radius: 50%;
-    margin: 60px auto;
+    border-radius: 2%;
+    margin: 60px 20px;
 }
 
 p {
     text-align: justify;
+}
+
+.psh {
+    color: black;
+    background-color: lawngreen;
+    border: 10px auto;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: gainsboro;
+    text-align: center;
+}
+
+body {
+    width: 98%;
 }
